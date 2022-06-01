@@ -1,5 +1,5 @@
 # scribble-digit-recognition [Under Dev]
-A classifier model will be developed that uses MNIST dataset. Model'll able to recognize digit written carelessly
+A classifier model is developed that uses MNIST dataset. Model is able to recognize digit written carelessly.
 
 MNIST : Modified National Institute of Standards and Technology
 
